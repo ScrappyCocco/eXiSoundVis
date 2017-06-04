@@ -3,7 +3,7 @@ using System.IO;
 
 public class eXiSoundVis : ModuleRules
 {
-	public eXiSoundVis(TargetInfo Target)
+	public eXiSoundVis(ReadOnlyTargetRules Target)
 	{
 		PrivateIncludePaths.AddRange(new string[] {	"eXiSoundVis/Private" });
 		PublicIncludePaths.AddRange(new string[] { "eXiSoundVis/Public" });
