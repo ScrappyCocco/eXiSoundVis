@@ -75,7 +75,7 @@ Example project
 ---------------
 
 
-4.12 Sound Test Map: [Hit me!](http://exi.bnslv.de/Downloads/SoundTest412.rar)
+No example available at the moment. Sorry!
 
 License
 -------------
