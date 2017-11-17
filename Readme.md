@@ -75,7 +75,7 @@ Example project
 ---------------
 
 
-No example available at the moment. Sorry!
+- 4.16 (No idea if properly commented or not and rather ugly, but maybe it helps!): http://www.cedric-neukirchen.net/Downloads/SoundVisDemo.7z
 
 License
 -------------
