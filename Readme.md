@@ -24,7 +24,7 @@ Unzip the package into the Plugins directory of your game.
 To add it as an engine plugin you will need to unzip the module into the plugin directory under where you installed UE4.
 
 
-**1.** Download the [ZIP file](https://github.com/eXifreXi/eXiSoundVis/archive/4.11.zip).
+**1.** Download the ZIP File.
 
 **2.** Create a `Plugins` folder in your game or engine directory and extract the plugin into it. It should look something like this:
 
@@ -113,7 +113,7 @@ email me - cedric.neukirchen@gmx.de
 
 contact me on the forum - Username: eXi
 
-contact me on the Slack Chat - Username: cedric_exi
+contact me on the Discord Unreal-Slackers Server - Username: cedric_exi
 
 
 Credits
