@@ -1,18 +1,24 @@
 {
-	"FileVersion": 3,
-	"FriendlyName": "eXi's Sound Visualization Plugin",
+	"FileVersion": 4,
 	"Version": 1,
 	"VersionName": "1.0",
-	"Description": "This plugin allows you to load .ogg files dynamically from the user's hard drive and then anaylize it. Analyzing it, will return a frequency spectrum for the given Samples. The spectrum can then be used in your project to control	all kinds of things.",
+	"FriendlyName": "eXi's Sound Visualization Plugin",
+	"Description": "This plugin allows you to load .ogg files dynamically from the user's hard drive and then anaylize it. Analyzing it, will return a frequency spectrum for the given Samples. The spectrum can then be used in your project to control\tall kinds of things.",
 	"Category": "eXi.Sound",
 	"CreatedBy": "Cedric 'eXi' Neukirchen",
-	
-	"Modules": 
-	[
+	"CreatedByURL": "https://github.com/eXifreXi/eXiSoundVis",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
 		{
-			"Name" : "eXiSoundVis",
-			"Type" : "Runtime",
-			"LoadingPhase" : "PreDefault"
+			"Name": "eXiSoundVis",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
 		}
 	]
 }
