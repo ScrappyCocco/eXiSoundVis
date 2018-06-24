@@ -410,7 +410,7 @@ void USoundVisComponent::BP_LoadAllSoundFileNamesFromHD(bool& bLoaded, const FSt
 
 	if (!bInAbsolutePath)
 	{
-		FinalPath = FPaths::ConvertRelativePathToFull(FPaths::GameDir()) + InDirectoryPath;
+		FinalPath = FPaths::ConvertRelativePathToFull(FPaths::ProjectDir()) + InDirectoryPath;
 	}
 
 	TArray<FString> DirectoriesToSkip;
