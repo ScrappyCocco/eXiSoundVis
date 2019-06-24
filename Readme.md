@@ -1,3 +1,11 @@
+# Scrappy note
+This plugin was useful to analyze audio frequency spectrum.
+
+With [Unreal 4.22](https://docs.unrealengine.com/en-US/Support/Builds/ReleaseNotes/4_22/index.html) they introduced "Spectral Analyzer" so this plugin is no longer necessary.
+
+This repository has been archieved on 24 June 2019.
+
+# eXiSoundVis
 [![](http://imgur.com/DWGECXG.gif)](https://www.youtube.com/watch?v=N4eA68BEpak)
 <sup>**Note:** The image above is an animated GIF, so there's some quality lost. Please see the [YouTube video](https://www.youtube.com/watch?v=N4eA68BEpak) for higher quality visualization of Disclosure's You and Me.</sup>
 
@@ -70,54 +78,6 @@ When cooking, make sure to add the plugin to your projects dependencies!
 
 ![](http://i.imgur.com/fh8VB1T.png)
 
-
-Example project
----------------
-
-
-- 4.16 (No idea if properly commented or not and rather ugly, but maybe it helps!): http://www.cedric-neukirchen.net/Downloads/SoundVisDemo.7z
-
-License
--------------
-By using this plugin you accept the CC-BY 4.0 license and
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Cedric Neukirchen
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-Contact
--------------
-If you have any Questions, Comments, Bug reports or feature requests for this plugin, 
-or you wish to contact me you can:
-
-email me - cedric.neukirchen@gmx.de
-
-contact me on the forum - Username: eXi
-
-contact me on the Discord Unreal-Slackers Server - Username: cedric_exi
-
-
-Credits
+License, Credits, Contacts and more...
 --------------
-n00854180t 	- Helping a lot to get the loading of the .ogg file running
-
-moss		- Helping to understand wave files
+[See original repo](https://github.com/leereilly/eXiSoundVis)
